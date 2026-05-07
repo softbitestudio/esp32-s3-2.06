@@ -1,9 +1,8 @@
 # esp32-s3-2.06
 |Waveshare ESP32-S3-TOUCH-AMOLED 2.06
- penetration testing tools
- |-------|
- 
-This is not a drop-and-run “attack binary.” Instead, it provides the HAL (Hardware Abstraction Layer), LVGL UI shell, module architecture, and legal/technical boundaries so you can port existing open-source cores (e.g., Marauder’s WiFi engine, NimBLE for BLE, Bruce’s app-manager concept, or GhostESP’s protocol stacks) in a responsible way.
+insert penetration testing tools
+ |-------|This is not a drop-and-run “attack binary.” Instead, it provides the HAL (Hardware Abstraction Layer), LVGL UI shell, module architecture, and legal/technical boundaries so you can port existing open-source cores (e.g., Marauder’s WiFi engine, NimBLE for BLE, Bruce’s app-manager concept, or GhostESP’s protocol stacks) in a responsible way.
+|this is completely vibe coded so meet it with plenty of skepticism. I'm building the scaffolding first, please help out any way you can. I'm a+ net+ ccna cert but my programming skills leave much to be desired
 |
 
 ```⚠️ Legal & Ethical Boundaries
