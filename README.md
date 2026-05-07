@@ -8,17 +8,25 @@ This is not a drop-and-run “attack binary.” Instead, it provides the HAL (Ha
 
 ```⚠️ Legal & Ethical Boundaries
 
-**Only use on networks you own or have written authorization to test.
+**Only use on networks you own or have written
+ authorization to test.
 
 RF jamming, 802.11 deauthentication floods,
  and unlicensed sub-GHz transmission are illegal
  in most jurisdictions**
+
 * (FCC Part 15, EU 2014/53/EU, etc.).*
 
-**This scaffold includes passive scanning and UI infrastructure only. **
+**This scaffold includes passive scanning and UI
+ infrastructure only. **
 
 ★ __Any frame-injection, raw 802.11, or sub-GHz TX
- code is your own responsibility to implement lawfully.__`
+ code is your own responsibility to implement
+ lawfully.__`
 
-Note: _Always cross-reference the [Waveshare Wiki](https://www.waveshare.com/esp32-s3-touch-amoled-2.06.htm) for the exact GPIO map of your PCB revision. The code below uses placeholders you must fill from the schematic._
+Note: _Always cross-reference the [Waveshare Wiki](https://www.waveshare.com/esp32-s3-touch-amoled-2.06.htm) 
+for the exact GPIO map of your PCB revision.
+
+ The code below uses placeholders you must fill
+ from the schematic._
 
