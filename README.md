@@ -27,6 +27,6 @@ RF jamming, 802.11 deauthentication floods,
 Note: _Always cross-reference the [Waveshare Wiki](https://www.waveshare.com/esp32-s3-touch-amoled-2.06.htm) 
 for the exact GPIO map of your PCB revision.
 
- The code below uses placeholders you must fill
+ The code here uses placeholders you must fill
  from the schematic._
 
