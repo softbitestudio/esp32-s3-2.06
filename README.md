@@ -2,10 +2,9 @@
 |Waveshare ESP32-S3-TOUCH-AMOLED 2.06
  penetration testing tools
  |-------|
- this is completely vibe coded so meet it with plenty of skepticism. 
-Im a+ net+ ccna cert but my programming skills leave much to be desired. so please contribute however you can. ty | 
-
+ 
 This is not a drop-and-run “attack binary.” Instead, it provides the HAL (Hardware Abstraction Layer), LVGL UI shell, module architecture, and legal/technical boundaries so you can port existing open-source cores (e.g., Marauder’s WiFi engine, NimBLE for BLE, Bruce’s app-manager concept, or GhostESP’s protocol stacks) in a responsible way.
+|
 
 ```⚠️ Legal & Ethical Boundaries
 
@@ -20,3 +19,6 @@ RF jamming, 802.11 deauthentication floods,
 
 ★ __Any frame-injection, raw 802.11, or sub-GHz TX
  code is your own responsibility to implement lawfully.__`
+
+Note: _Always cross-reference the [Waveshare Wiki](https://www.waveshare.com/esp32-s3-touch-amoled-2.06.htm) for the exact GPIO map of your PCB revision. The code below uses placeholders you must fill from the schematic._
+
